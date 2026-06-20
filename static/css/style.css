@@ -282,11 +282,15 @@ span{
     /* align-items: center; */
     /* justify-content: center; */
     font-weight: 450;
-    border-bottom: 3px solid #b74b4b;
+    /* border-bottom: 3px solid #b74b4b; */
     border-radius: 12px;
-    box-shadow: 0 0 2px #8e4949;
+    /* box-shadow: 0 0 2px #8e4949; */
     margin: 20px auto;
     width: fit-content;
+    display: flex;
+    padding: 20px;
+    height: 150px;
+    line-height: 200px;
 }
 
 .Projects1{
@@ -333,9 +337,13 @@ span{
     
 }
 .footer{
-    text-align: center;
+    /* text-align: center; */
     padding: 20px;
     font-size: 1.8rem;
     color: #f9f5f5;
     margin-top: 20px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+
 }
