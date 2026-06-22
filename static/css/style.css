@@ -156,6 +156,21 @@ span{
     font-size: 1.8rem;
     font-weight: 500;
 }
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    /* border: 3px solid #b74b4b */
+    border-radius: 12px;
+    padding: 20px;
+}
+/* .social-icons{
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    border: 3px solid #b74b4b;
+} */
 
 .social-icons a{
     display:inline-flex;
@@ -345,5 +360,11 @@ span{
     display: flex;
     /* align-items: center; */
     justify-content: center;
+    /* word-spacing: 5px; */
 
+}
+.footer a{
+    /* color: #b74b4b; */
+    font-weight: 600;
+    word-spacing: 5px;
 }
