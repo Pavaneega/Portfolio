@@ -260,27 +260,22 @@ span {
 
     0%,
     20% {
-        content: "Web Developer";
+        content: "Fullstack Developer";
     }
 
     21%,
     40% {
-        content: "Devloper";
+        content: "AI MLEngineer";
     }
 
     41%,
     60% {
-        content: "Web Designer";
+        content: "Web Developer";
     }
-
-    61%,
-    80% {
-        content: "Video Editor";
-    }
-
+    
     81%,
     100% {
-        content: "Multimedia";
+        content: "Content Creator";
     }
 }
 
